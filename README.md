@@ -30,7 +30,7 @@ I'm a B.Tech Computer Science and Systems Engineering student (CGPA 8.3, expecte
 
 ## 🚀 Projects
 
-### 📈 [KK Digital Growth Web Application]([https://github.com/ullasinithota/kk-digital-growth](https://www.kkdigitalgrowth.com/))
+### 📈 [KK Digital Growth Web Application](https://www.kkdigitalgrowth.com/)
 > A business web application for a digital marketing company.
 
 - Showcases digital marketing services and captures client inquiries and requirements
